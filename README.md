@@ -47,11 +47,11 @@ while True:
 
 CLIENT:
 
-![swpcl](https://github.com/Vanisha0609/EX-2/assets/119104009/720e1966-ad0e-4726-a687-1d479dd84dd4)
+![swpcl](https://github.com/Vanisha0609/EX-2/assets/119104009/bea5315f-b49d-4a0a-83c8-2150db710e3a)
 
 SERVER:
 
-![swps](https://github.com/Vanisha0609/EX-2/assets/119104009/bbfa5d96-1720-4476-b6d1-1d3f4248581c)
+![swps](https://github.com/Vanisha0609/EX-2/assets/119104009/31a8aaa5-5d97-4818-b58a-4b0d12fb72a4)
 
 ## RESULT :
   Thus, python program to perform stop and wait protocol was successfully executed
