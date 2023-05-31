@@ -53,7 +53,7 @@ SERVER:
 
 ![swps](https://github.com/Vanisha0609/EX-2/assets/119104009/bbfa5d96-1720-4476-b6d1-1d3f4248581c)
 
-RESULT :
+## RESULT :
   Thus, python program to perform stop and wait protocol was successfully executed
 
 
