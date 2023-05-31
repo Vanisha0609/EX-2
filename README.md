@@ -32,15 +32,16 @@ while True:
  else:
  c.close()
  break
- 
+ ```
  SERVER:
+ ```
  import socket
 s=socket.socket()
 s.connect(('localhost',8000))
 while True:
  print(s.recv(1024).decode())
  s.send("Acknowledgement Recived".encode())
-
+```
 OUTPUT :
 CLIENT:
 ![swpcl](https://github.com/Vanisha0609/EX-2/assets/119104009/720e1966-ad0e-4726-a687-1d479dd84dd4)
